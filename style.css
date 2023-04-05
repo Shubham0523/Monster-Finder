@@ -1,0 +1,36 @@
+body {
+    background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+    text-align: center;
+    font-family: Copperplate, Copperplate Gothic Light, fantasy;
+}
+.head {
+    font-size: 3rem;
+}
+p {
+    font-size: 1.5rem;
+}
+.monster {
+    display: none;
+    border: 2px solid black;
+    width: 500px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    margin: 0 auto;
+}
+.search-icon img {
+    display: flex;
+    width: 20px;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    right: 120px;
+    bottom: 22px;
+}
+.monster img {
+    text-align: center;
+    width: 300px;
+}
+/* .not-found {
+    display: block;
+} */

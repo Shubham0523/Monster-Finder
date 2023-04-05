@@ -1,0 +1,21 @@
+export const monsters = [{
+        id:1, 
+        name:'random',
+        email:'random@gmail.com'
+    },{
+        id:2, 
+        name:'abc',
+        email:'abc@gmail.com'
+    },{
+        id:3, 
+        name:'llama',
+        email:'llama@gmail.com'
+    },{
+        id:4, 
+        name:'gpt-3',
+        email:'gpt3@gmail.com'
+    },{
+        id:5, 
+        name:'gpt-4',
+        email:'gpt4@gmail.com'
+    },]
